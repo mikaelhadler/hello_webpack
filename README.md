@@ -1,10 +1,12 @@
 # Hello Webpack
 
+Run development environment
+
 ```
-npm run build
+npm run build:dev
 ```
 
-or
+Run production environment build
 
 ```
 yarn build
